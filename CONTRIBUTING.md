@@ -62,7 +62,7 @@ By submitting a contribution, you agree that:
 
 ## Licensing of contributions
 
-Inbound contributions are licensed under this repository's `LICENSE`, plus the relicensing grant above.
+For DCO 1.1 purposes, inbound contributions are submitted under the MIT License; the relicensing grant above also applies.
 
 ## Trademarks
 
